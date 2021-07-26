@@ -38,7 +38,7 @@ Using specific tools doesn't make them good designers, using fancy cool words ma
 - How can I develop in my new role / what opportunities are offered?
 
 # Design Tools
-
+- TBD
 
 # UX
 - How do you get track of changes? (Figma Versions, Abstract,...)
@@ -177,8 +177,8 @@ Using specific tools doesn't make them good designers, using fancy cool words ma
 - What is the policy on unpaid leave?
 - What is the policy for sabbatical leave?
 
-
-
+# Product Design Exercices (examples and soultions)
+- TBD
 
 # Other resources
 
@@ -187,11 +187,6 @@ Find more inspiration for questions in:
   - [14 Essential Product Design Interview Questions](https://www.toptal.com/designers/product-design/interview-questions)
   - [How to prepare for an awesome Product Designer interview](https://medium.com/snapdocs-design/how-to-prepare-for-an-awesome-product-designer-interview-at-snapdocs-4da5f98d2eb8)
   - [Product design interview questions and answers (from top tech companies)](https://www.pathrise.com/guides/product-design-interview-questions-and-answers-from-top-tech-companies/)
-
-# TO-DO
-- Product design exercises and solutions
-- Toolsets
-
 
 # License
 
