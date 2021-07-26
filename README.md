@@ -105,7 +105,9 @@ Using specific tools doesn't make them good designers, using fancy cool words ma
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
 - What kind of social events does the team/company host and are these attended by everyone?
-- Why did the company decide to hire an outsider over promoting an internal employee? 
+- Why did the company decide to hire an outsider over promoting an internal employee?
+- Will I have a hiring buddy available for help? 
+- How is the typical onboarding scenario? (my fist week, my first month,...)
 
 # Social issues
 
