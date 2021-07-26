@@ -2,7 +2,7 @@
 
 This is a list of questions which may be interesting if you apply to a product design role.
 The points are not ordered and many may not apply to a given position, or work type.
-This is a based on https://github.com/viraptor/reverse-interview adapted for Designers (Visual and Product Designer). 
+This is based on https://github.com/viraptor/reverse-interview adapted for Designers (Visual and Product Designer). 
 Basicaly the idea is to detect smells and red flags to avoid future problems.
 
 
