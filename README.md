@@ -40,7 +40,7 @@ Using specific tools doesn't make them good designers, using fancy cool words ma
 # Design Tools
 - TBD
 
-# UX
+# UX: Design
 - How do you get track of changes? (Figma Versions, Abstract,...)
 - How do you test design?
 - How do you track bugs?
@@ -48,9 +48,15 @@ Using specific tools doesn't make them good designers, using fancy cool words ma
 - What's the workflow from the planning to the finished task?
 - Is there a standardised design environment? Is it enforced?
 - Tell me about your design principles or vision.
-- Do you have a designer documentation?
-- Do you have some higher level documentation? 
-- How do you measure your designs?
+- How do you document your designs?
+
+# UX: Research
+- How do you instrument the product?
+- How do you validate one hyphotesis?
+- Do you have a dedicated team for research?
+- How do you document the insights?
+- How do you approach research?
+- Do you prefer qualitative or quantitative research?
 
 # The Team
 
