@@ -36,6 +36,7 @@ Using specific tools doesn't make them good designers, using fancy cool words ma
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
 - How can I develop in my new role / what opportunities are offered?
+- Who does this role report to?
 
 # Design Tools
 - TBD
